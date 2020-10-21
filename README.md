@@ -1,7 +1,7 @@
 # Hi-Lo-card-game
 A simple card game with GUI.
 
-![Alt text](https://stevepython.files.wordpress.com/2019/11/hi-lo-154-screenshot.png "")
+![Alt text](https://1.bp.blogspot.com/-HmRpcnZvTpg/X4_M-gPaMzI/AAAAAAAABSQ/UiaOSQodjg4E-JrfSJs34L1dl2V39KIngCLcBGAsYHQ/s286/hi-lo-screenshot.png "")
 
 Requirements:
 
@@ -11,5 +11,4 @@ pip3 install pygame
 
 HiLo homepage:
 
-https://stevepython.wordpress.com/2019/11/21/python-hi-lo-card-game-update
-
+https://pyshambles.blogspot.com/2020/10/python-gui-card-game.html
