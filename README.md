@@ -11,4 +11,5 @@ pip3 install pygame
 
 HiLo homepage:
 
-https://pyshambles.blogspot.com/2020/10/python-gui-card-game.html
+https://stevepython.wordpress.com/2021/02/22/python-gui-card-game-v1-67/
+
