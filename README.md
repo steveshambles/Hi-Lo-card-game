@@ -1,7 +1,7 @@
 # Hi-Lo-card-game
 A simple card game with GUI.
 
-![Alt text](https://1.bp.blogspot.com/-HmRpcnZvTpg/X4_M-gPaMzI/AAAAAAAABSQ/UiaOSQodjg4E-JrfSJs34L1dl2V39KIngCLcBGAsYHQ/s286/hi-lo-screenshot.png "")
+![Alt text](https://i.postimg.cc/LX1dkb7K/hi-lo-change-card.png "")
 
 Requirements:
 
