@@ -24,3 +24,5 @@ Linux version:
 
 ![Alt text](https://i.postimg.cc/9F2fxC56/Screenshot-from-2021-02-24-03-54-35.png "")
 
+![Alt text](https://i.postimg.cc/63Qr4nzh/hi-lo-v173-menu.png "")
+
