@@ -4,7 +4,7 @@ My version of Hi-Lo card game with GUI.
 
 Windows version:
 
-![Alt text](https://i.postimg.cc/LX1dkb7K/hi-lo-change-card.png "")
+![Alt text](https://i.postimg.cc/fRxjGwJY/hi-lo-v173.png "")
 
 Requirements:
 
