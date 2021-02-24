@@ -1,5 +1,5 @@
 # Hi-Lo-card-game
-A simple card game with GUI.
+My version of Hi-Lo card game with GUI.
 
 ![Alt text](https://i.postimg.cc/LX1dkb7K/hi-lo-change-card.png "")
 
@@ -10,6 +10,8 @@ pip3 install pygame
 pip3 install Pillow
 
 'cards' folder in current dir.
+
+
 
 HiLo homepage:
 
