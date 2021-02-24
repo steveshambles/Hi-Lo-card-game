@@ -1,0 +1,31 @@
+How To play Hi-Lo V1.72.
+
+This game is very simple to play.
+All you have to do is guess if the face down
+card on the right will be higher or lower than
+the card shown on the left.
+
+If you have at least 1pt the "CHANGE CARD"
+button Will become available.
+
+Click the change card button if you want
+to change a bad card, this will costs you 1pt,
+with no guarantee of getting a better card.
+
+A Joker is wild, i.e. counted as anything.
+If you turn over two jokers together you will
+be awarded a bonus of 3pts.
+
+If you have 4pts or more the "JOKER" button will
+become availble to you at a cost of 4pts per use.
+This will deal you a guaranteed joker on card two,
+ensuring a win to the next round.
+
+Any pair also gives you a win to the next round.
+
+Aces are counted as the highest card.
+
+Your high score will be saved to disc and reloaded
+the next time you play.
+
+Enjoy.)
