@@ -1,6 +1,9 @@
 # Hi-Lo-card-game
 My version of Hi-Lo card game with GUI.
 
+
+Windows version:
+
 ![Alt text](https://i.postimg.cc/LX1dkb7K/hi-lo-change-card.png "")
 
 Requirements:
@@ -16,4 +19,8 @@ pip3 install Pillow
 Hi-Lo homepage:
 
 https://stevepython.wordpress.com/2021/02/22/python-gui-card-game-v1-67/
+
+Linux version:
+
+![Alt text](https://i.postimg.cc/9F2fxC56/Screenshot-from-2021-02-24-03-54-35.png "")
 
