@@ -13,7 +13,7 @@ pip3 install Pillow
 
 
 
-HiLo homepage:
+Hi-Lo homepage:
 
 https://stevepython.wordpress.com/2021/02/22/python-gui-card-game-v1-67/
 
