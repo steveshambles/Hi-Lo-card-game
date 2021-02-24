@@ -6,6 +6,7 @@ A simple card game with GUI.
 Requirements:
 
 pip3 install pygame
+
 pip3 install Pillow
 
 'cards' folder in current dir.
