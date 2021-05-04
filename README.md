@@ -18,6 +18,7 @@ pip3 install sounddevice
 pip3 install soundfile
 
 'cards' folder in current dir.
+'help.txt' in current dir.
 
 Hi-Lo homepage:
 
