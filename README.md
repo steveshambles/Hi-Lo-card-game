@@ -8,8 +8,11 @@ My version of Hi-Lo card game with GUI for Windows and Linux.
 Requirements:
 
 pip3 install Pillow
+
 pip3 install pygame
+
 pip3 install sounddevice
+
 pip3 install soundfile
 
 'cards' folder in current dir.
