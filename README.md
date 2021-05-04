@@ -19,7 +19,7 @@ pip install soundfile
 
 Hi-Lo homepage:
 
-https://stevepython.wordpress.com/2021/02/22/python-gui-card-game-v1-67/
+TBA
 
 
 
