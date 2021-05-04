@@ -1,5 +1,5 @@
 # Hi-Lo-card-game
-My version of Hi-Lo card game with GUI for Windowsand Linux.
+My version of Hi-Lo card game with GUI for Windows and Linux.
 
 
 ![Alt text](https://i.postimg.cc/xTxtMbpW/hi-lo-v2-screenshot1.png "")
