@@ -21,7 +21,7 @@ pip3 install soundfile
 
 Hi-Lo homepage:
 
-TBA
+https://stevepython.wordpress.com/2021/05/04/python-gui-card-game-v2/
 
 
 
