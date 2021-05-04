@@ -1,0 +1,54 @@
+How To play Hi-Lo V2.0
+
+This game is very simple to play.
+All you have to do is guess if the face down
+card on the right will be higher or lower than
+the card shown on the left.
+
+If you have earned at least 1pt the "CHANGE"
+button Will become available.
+
+Click the change button if you want
+to change a bad card, this will cost you 1pt,
+off of your score with no guarantee of
+getting a better card.
+
+A Joker is wild, i.e. counted as anything.
+
+If you have 3pts or more the "JOKER" button will
+become available to you at a cost of 3pts per use.
+This will deal you a guaranteed joker on card two,
+ensuring a win to the next round.
+
+Aces are counted as the highest card.
+
+Your high score will be saved to disc and reloaded
+the next time you play.
+
+Music and sound effects can be switched on and off
+from the Music menu as per your desire.
+
+
+Enjoy.)
+
+MIT Licence conditions:
+------------------------
+Copyright (c) 2021 Steve Sambles
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
